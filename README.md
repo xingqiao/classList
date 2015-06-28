@@ -1,2 +1,3 @@
-# classList
-为IE8扩充classList特性
+# 为IE8扩充classList特性
+
+利用Object.defineProperty为HTMLElement添加classList实现，直接引入代码，使用方式和HTML5规范一致
